@@ -1,0 +1,6 @@
+print(max(10,20,30,1))
+print(min(10,20,30,1))
+r1=max(10,20,30,1)
+r2=min(10,20,30,1)
+print(r1)
+print(r2)
