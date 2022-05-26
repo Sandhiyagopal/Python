@@ -8,5 +8,7 @@ class Person:
         print("Delete the var or methods")
 
 c=Person(20,30,40)
+d=Person(20,30,2)
+del d
 del c.p1
 print(c.p1)
