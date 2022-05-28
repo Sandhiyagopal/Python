@@ -6,4 +6,4 @@ for number in range(num1,num2):
             if(number%x)==0:
                 break
         else:
-           print(number)
+            print(number)
